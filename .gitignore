@@ -1,3 +1,20 @@
+*.zip
+
+flex.pbix
+
+fact_table_01.csv
+fact_table_02.csv
+fact_table_03.csv
+fact_table_04.csv
+fact_table_05.csv
+fact_table_06.csv
+fact_table_07.csv
+fact_table_08.csv
+fact_table_09.csv
+fact_table_10.csv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
